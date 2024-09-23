@@ -1,0 +1,24 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: Read the Ducks
+  version: 
+  folders:
+  
+  - title: Blog
+    output: web
+    folderitems:
+
+    - title: Example Blog Post
+      url: /Example_Blog_Post.html
+      output: web
+  
+  - title: Papers/Books
+    output: web
+    folderitems:
+    
+    - title: A Modern Overview of C
+      url: /C_1-1_Intro-to-C.html
+      output: web
+    

@@ -1,0 +1,11 @@
+## Topnav single links
+## if you want to list an external url, use external_url instead of url. the theme will apply a different link base.
+topnav:
+- title: Topnav
+  items:
+    - title: Blog
+      url: /Example_Blog_Post
+    - title: A Modern Overview of C
+      url: /C_1-1_Intro-to-C
+    - title: GitHub Repository
+      external_url: https://github.com/read-the-ducks/blog/
