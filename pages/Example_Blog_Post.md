@@ -20,8 +20,15 @@ Here are some ideas for future blog posts:
 * Takin' Notes: exploring note-taking file formats (.txt, .rst, .md..) and comfy writing tools..
 * Scrapping deeper than the surface: Learning more about useful Visual Studio Code features/extensions/shortcuts to make day-to-day work smooth-y-er...
 * The Code-Book: the endless battle for privacy..
+* The Pragmatic Programmer: lessons learned from battlefield veterans..
 * Customizing the CLI experience: neat tools and tricks for a smoother Linux CLI experience..
 * No escaping VIM & Nano: learning basic usage of VIM & Nano for remote machines, and especially how to quit'em (:q)..
 * Single-instruction Multiple-Headaches: Looking into available SIMD extensions for x86 and ARM CPUs (feat. RISC-V)
 * It runs on my machine: should you use containers for your development environment ?
-*  
+*  Where are my cycles going ?: tools to profile/annotate software performance, and which metrics to look-out (cache misses, branch misses..)
+*  N.I.C.S: investigating key characteristics of modern NICs
+*  Virtual network interfaces: how do virtual interfaces interact with the Kernel, and how can they be configured (af_packet, tap/tuns, virtio, sr-iov..)
+* Vector Packet Processin': getting started with VPP, and a set of resources to dig deeper for users/developers..
+* Code optimization tips: using pre-fetching, locality, branch prediction, cache-aligned data, lockless algorithms, well-designed data structures, and avoiding issues like false sharing
+* Core-pinning tricks for your Network Workloads
+* Not Financial advice: learning more about stocks..
