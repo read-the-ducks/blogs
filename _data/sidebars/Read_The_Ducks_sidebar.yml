@@ -10,8 +10,8 @@ entries:
     output: web
     folderitems:
 
-    - title: Example Blog Post
-      url: /Example_Blog_Post.html
+    - title: Blog Post Ideas
+      url: /Blog_Post_Ideas.html
       output: web
   
   - title: Papers/Books
