@@ -31,4 +31,4 @@ Here are some ideas for future blog posts:
 * Vector Packet Processin': getting started with VPP, and a set of resources to dig deeper for users/developers..
 * Code optimization tips: using pre-fetching, locality, branch prediction, cache-aligned data, lockless algorithms, well-designed data structures, and avoiding issues like false sharing
 * Core-pinning tricks for your Network Workloads
-* Not Financial advice: learning more about stocks..
+* Not Financial advice: learning more about stocks.. 
