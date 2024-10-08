@@ -3,7 +3,7 @@ title: "Blog Post Ideas"
 keywords:
 tags:
 sidebar: Blog_sidebar
-permalink: Example_Blog_Post
+permalink: Blog_Post_Ideas
 summary:
 ---
 
